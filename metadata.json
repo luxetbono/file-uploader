@@ -1,0 +1,66 @@
+{
+	"title":"luxetbono | Work",
+	"charset":"utf-8",
+	"favicon":{
+		"content":"favicon.ico",
+		"location":""
+	},
+	
+	"meta_data":{
+		"definitions":{
+				"meta":{
+					"meta_type":"name"
+				},
+				"og":{
+					"meta_type":"property"
+				},
+				"twitter":{
+					"meta_type":"name"
+				}
+			},
+
+			"properties":[
+				{
+					"property":["og:title", "twitter:title", "meta:description"],
+					"content":"luxetbono: The work of John Bono."
+				},
+				{
+					"property":["meta:author"],
+					"content":"John Bono"
+				},
+				{
+					"property":["meta:viewport"],
+					"content":"width=device-width, initial-scale=1.0"
+				},
+				{
+					"property":["twitter:creator"],
+					"content":"@luxetbono"
+				},
+				{
+					"property":["meta:keywords"],
+					"content":"Photography,Video,Design,Programming"
+				},
+				{
+					"property":["meta:theme-color"],
+					"content":"#213444"
+				},
+				{
+					"property":["og:type"],
+					"content":"website"
+				},
+				{
+					"property":["twitter:card"],
+					"content":"summary_large_image"
+				},
+				{
+					"property":["og:description", "twitter:description"],
+					"content":"Want to create a brand, have a photoshoot, create videos? Lux et Bono: It's not just good. It's Bono!"
+				},
+				{
+					"property":["og:image", "twitter:image"],
+					"content":"open_graph.jpg",
+					"location":""
+				}
+			]
+	}
+}
